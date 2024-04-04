@@ -23,6 +23,7 @@ import androidx.compose.ui.text.input.TextFieldValue
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import ir.misterdeveloper.jetpack.bottomSheet.BottomSheetScaffoldSample
 import ir.misterdeveloper.jetpack.profileScreen.screen.ProfileScreen
 import ir.misterdeveloper.jetpack.tourism.screen.PlacePage
 
@@ -32,7 +33,14 @@ class MainActivity : ComponentActivity() {
         setContent {
 
            // ProfileScreen()
-            PlacePage()
+         // PlacePage()
+            Column (
+                modifier = Modifier.fillMaxSize(),
+                verticalArrangement = Arrangement.Center,
+                horizontalAlignment = Alignment.CenterHorizontally
+            ){
+                BottomSheetScaffoldSample()
+            }
         }
     }
 }
