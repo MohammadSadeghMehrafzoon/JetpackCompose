@@ -12,4 +12,9 @@ In this repository, we're going to learn all the great user interfaces with Jetp
 
           ![photo_2024-04-05_03-11-025](https://github.com/MohammadSadeghMehrafzoon/JetpackCompose/assets/78638521/1893808d-4da8-47b4-92b1-755844f623c9)
 
+  4.Gradient Color Broder Stroke in Compose:(https://github.com/MohammadSadeghMehrafzoon/JetpackCompose/commit/86023bea74e9ff528f495443202969d2eaaff330)
+
+ ![Screenshot 2024-04-24 123243](https://github.com/MohammadSadeghMehrafzoon/JetpackCompose/assets/78638521/d56aca5e-504f-427f-918e-2ca99016a857)
+
+
 
