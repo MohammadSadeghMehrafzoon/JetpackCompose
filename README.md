@@ -16,5 +16,8 @@ In this repository, we're going to learn all the great user interfaces with Jetp
 
  ![Screenshot 2024-04-24 123243](https://github.com/MohammadSadeghMehrafzoon/JetpackCompose/assets/78638521/d56aca5e-504f-427f-918e-2ca99016a857)
 
+   5.Android Dynamic App Shortcuts(https://github.com/MohammadSadeghMehrafzoon/JetpackCompose/commit/48b98c720b278a426e5d72512fe19899e94b993a)
+           ![ascas](https://github.com/MohammadSadeghMehrafzoon/JetpackCompose/assets/78638521/cd4ae0a4-3a32-4757-b372-0549e7da4921)
+
 
 
